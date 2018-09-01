@@ -1,0 +1,26 @@
+                counter++;
+
+                /** 
+                    * Mencatat suhu ke database
+                **/
+                //lakukan hanya pada interval yang telah ditentukan
+                //intervalSimpan (menit) x 60 x 2, karena 1 detak = 500 milidetik / 1/2 detik
+                if (counter == (intervalSimpan * 60 * 2))
+                {
+                    //Buat query untuk insert catatan
+                    da.InsertCommand = new SqlCommand("INSERT INTO tb_sensor (suhu_air, kekeruhan_air, ph_air, do_air) VALUES(@SUHU_AIR, @KEKERUHAN_AIR, @PH_AIR, @DO_AIR)", cs);
+                    da.InsertCommand.Parameters.AddWithValue("@SUHU_AIR", SqlDbType.Float).Value = labelValTemperature.Text;
+                    da.InsertCommand.Parameters.AddWithValue("@KEKERUHAN_AIR", SqlDbType.Float).Value = labelvalWaterTurbidity.Text;
+                    da.InsertCommand.Parameters.AddWithValue("@PH_AIR", SqlDbType.Float).Value = labelValPH.Text;
+                    da.InsertCommand.Parameters.AddWithValue("@DO_AIR", SqlDbType.Float).Value = labelValDO.Text;
+
+                    //buka koneksi ke database
+                    cs.Open();
+                    //eksekusi query insert
+                    da.InsertCommand.ExecuteNonQuery();
+                    //tutup koneksi ke database
+                    cs.Close();
+
+                    //reset counter
+                    counter = 0;
+                }

@@ -1,0 +1,108 @@
+D:\BISMILLAH E41150080\APP\BISMILLAH\BISMILLAH\bin\Debug\BISMILLAH.exe
+D:\BISMILLAH E41150080\APP\BISMILLAH\BISMILLAH\bin\Debug\BISMILLAH.pdb
+D:\BISMILLAH E41150080\APP\BISMILLAH\BISMILLAH\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\BISMILLAH E41150080\APP\BISMILLAH\BISMILLAH\obj\x86\Debug\BISMILLAH.Form1.resources
+D:\BISMILLAH E41150080\APP\BISMILLAH\BISMILLAH\obj\x86\Debug\BISMILLAH.Properties.Resources.resources
+D:\BISMILLAH E41150080\APP\BISMILLAH\BISMILLAH\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\BISMILLAH E41150080\APP\BISMILLAH\BISMILLAH\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\BISMILLAH E41150080\APP\BISMILLAH\BISMILLAH\obj\x86\Debug\BISMILLAH.exe
+D:\BISMILLAH E41150080\APP\BISMILLAH\BISMILLAH\obj\x86\Debug\BISMILLAH.pdb
+D:\Bismillah Final Project\Program\APP\BISMILLAH\BISMILLAH\obj\x86\Debug\BISMILLAH.exe
+D:\Bismillah Final Project\Program\APP\BISMILLAH\BISMILLAH\obj\x86\Debug\BISMILLAH.pdb
+D:\Bismillah Final Project\Program\APP\BISMILLAH\BISMILLAH\bin\Debug\BISMILLAH.exe
+D:\Bismillah Final Project\Program\APP\BISMILLAH\BISMILLAH\bin\Debug\BISMILLAH.pdb
+D:\Bismillah Final Project\Program\APP\BISMILLAH\BISMILLAH\obj\x86\Debug\BISMILLAH.Form1.resources
+D:\Bismillah Final Project\Program\APP\BISMILLAH\BISMILLAH\obj\x86\Debug\BISMILLAH.Properties.Resources.resources
+D:\Bismillah Final Project\Program\APP\BISMILLAH\BISMILLAH\obj\x86\Debug\BISMILLAH.csproj.GenerateResource.Cache
+D:\Bismillah Final Project\Program\APP\BISMILLAH - baca sensor\BISMILLAH\obj\x86\Debug\BISMILLAH.exe
+D:\Bismillah Final Project\Program\APP\BISMILLAH - baca sensor\BISMILLAH\obj\x86\Debug\BISMILLAH.pdb
+D:\Bismillah Final Project\Program\APP\BISMILLAH - baca sensor\BISMILLAH\bin\Debug\BISMILLAH.exe
+D:\Bismillah Final Project\Program\APP\BISMILLAH - baca sensor\BISMILLAH\bin\Debug\BISMILLAH.pdb
+D:\Bismillah Final Project\Program\APP\BISMILLAH - baca sensor\BISMILLAH\obj\x86\Debug\BISMILLAH.Form1.resources
+D:\Bismillah Final Project\Program\APP\BISMILLAH - baca sensor\BISMILLAH\obj\x86\Debug\BISMILLAH.Properties.Resources.resources
+D:\Bismillah Final Project\Program\APP\BISMILLAH - baca sensor\BISMILLAH\obj\x86\Debug\BISMILLAH.csproj.GenerateResource.Cache
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gps\BISMILLAH\obj\x86\Debug\BISMILLAH.exe
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gps\BISMILLAH\obj\x86\Debug\BISMILLAH.pdb
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gps\BISMILLAH\bin\Debug\BISMILLAH.exe
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gps\BISMILLAH\bin\Debug\BISMILLAH.pdb
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gps\BISMILLAH\obj\x86\Debug\BISMILLAH.csprojResolveAssemblyReference.cache
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gps\BISMILLAH\obj\x86\Debug\BISMILLAH.Form1.resources
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gps\BISMILLAH\obj\x86\Debug\BISMILLAH.Properties.Resources.resources
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gps\BISMILLAH\obj\x86\Debug\BISMILLAH.csproj.GenerateResource.Cache
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv2\BISMILLAH\obj\x86\Debug\BISMILLAH.exe
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv2\BISMILLAH\obj\x86\Debug\BISMILLAH.pdb
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv2\BISMILLAH\bin\Debug\BISMILLAH.exe
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv2\BISMILLAH\bin\Debug\BISMILLAH.pdb
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv2\BISMILLAH\obj\x86\Debug\BISMILLAH.csprojResolveAssemblyReference.cache
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv2\BISMILLAH\obj\x86\Debug\BISMILLAH.Form1.resources
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv2\BISMILLAH\obj\x86\Debug\BISMILLAH.Properties.Resources.resources
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv2\BISMILLAH\obj\x86\Debug\BISMILLAH.csproj.GenerateResource.Cache
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3\BISMILLAH\obj\x86\Debug\BISMILLAH.exe
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3\BISMILLAH\obj\x86\Debug\BISMILLAH.pdb
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3\BISMILLAH\bin\Debug\BISMILLAH.exe.config
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3\BISMILLAH\bin\Debug\BISMILLAH.exe
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3\BISMILLAH\bin\Debug\BISMILLAH.pdb
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3\BISMILLAH\bin\Debug\EntityFramework.dll
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3\BISMILLAH\bin\Debug\EntityFramework.SqlServer.dll
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3\BISMILLAH\bin\Debug\GMap.NET.Core.dll
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3\BISMILLAH\bin\Debug\GMap.NET.WindowsForms.dll
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3\BISMILLAH\bin\Debug\GMap.NET.WindowsPresentation.dll
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3\BISMILLAH\bin\Debug\Newtonsoft.Json.dll
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3\BISMILLAH\bin\Debug\System.Data.SQLite.dll
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3\BISMILLAH\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3\BISMILLAH\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3\BISMILLAH\bin\Debug\EntityFramework.xml
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3\BISMILLAH\bin\Debug\EntityFramework.SqlServer.xml
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3\BISMILLAH\bin\Debug\Newtonsoft.Json.xml
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3\BISMILLAH\bin\Debug\System.Data.SQLite.xml
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3\BISMILLAH\obj\x86\Debug\BISMILLAH.csprojResolveAssemblyReference.cache
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3\BISMILLAH\obj\x86\Debug\BISMILLAH.Form1.resources
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3\BISMILLAH\obj\x86\Debug\BISMILLAH.Properties.Resources.resources
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3\BISMILLAH\obj\x86\Debug\BISMILLAH.csproj.GenerateResource.Cache
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3\BISMILLAH\bin\Debug\AjaxMin.dll
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3+navigasi\BISMILLAH\bin\Debug\BISMILLAH.exe.config
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3+navigasi\BISMILLAH\obj\x86\Debug\BISMILLAH.exe
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3+navigasi\BISMILLAH\obj\x86\Debug\BISMILLAH.pdb
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3+navigasi\BISMILLAH\bin\Debug\BISMILLAH.exe
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3+navigasi\BISMILLAH\bin\Debug\BISMILLAH.pdb
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3+navigasi\BISMILLAH\bin\Debug\AjaxMin.dll
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3+navigasi\BISMILLAH\bin\Debug\EntityFramework.dll
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3+navigasi\BISMILLAH\bin\Debug\EntityFramework.SqlServer.dll
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3+navigasi\BISMILLAH\bin\Debug\GMap.NET.Core.dll
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3+navigasi\BISMILLAH\bin\Debug\GMap.NET.WindowsForms.dll
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3+navigasi\BISMILLAH\bin\Debug\GMap.NET.WindowsPresentation.dll
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3+navigasi\BISMILLAH\bin\Debug\Newtonsoft.Json.dll
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3+navigasi\BISMILLAH\bin\Debug\System.Data.SQLite.dll
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3+navigasi\BISMILLAH\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3+navigasi\BISMILLAH\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3+navigasi\BISMILLAH\bin\Debug\EntityFramework.xml
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3+navigasi\BISMILLAH\bin\Debug\EntityFramework.SqlServer.xml
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3+navigasi\BISMILLAH\bin\Debug\Newtonsoft.Json.xml
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3+navigasi\BISMILLAH\bin\Debug\System.Data.SQLite.xml
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3+navigasi\BISMILLAH\obj\x86\Debug\BISMILLAH.csprojResolveAssemblyReference.cache
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3+navigasi\BISMILLAH\obj\x86\Debug\BISMILLAH.Form1.resources
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3+navigasi\BISMILLAH\obj\x86\Debug\BISMILLAH.Properties.Resources.resources
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3+navigasi\BISMILLAH\obj\x86\Debug\BISMILLAH.csproj.GenerateResource.Cache
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3+navigasi+chart\BISMILLAH\bin\Debug\BISMILLAH.exe.config
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3+navigasi+chart\BISMILLAH\obj\x86\Debug\BISMILLAH.exe
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3+navigasi+chart\BISMILLAH\obj\x86\Debug\BISMILLAH.pdb
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3+navigasi+chart\BISMILLAH\bin\Debug\BISMILLAH.exe
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3+navigasi+chart\BISMILLAH\bin\Debug\BISMILLAH.pdb
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3+navigasi+chart\BISMILLAH\bin\Debug\AjaxMin.dll
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3+navigasi+chart\BISMILLAH\bin\Debug\EntityFramework.dll
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3+navigasi+chart\BISMILLAH\bin\Debug\EntityFramework.SqlServer.dll
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3+navigasi+chart\BISMILLAH\bin\Debug\GMap.NET.Core.dll
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3+navigasi+chart\BISMILLAH\bin\Debug\GMap.NET.WindowsForms.dll
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3+navigasi+chart\BISMILLAH\bin\Debug\GMap.NET.WindowsPresentation.dll
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3+navigasi+chart\BISMILLAH\bin\Debug\Newtonsoft.Json.dll
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3+navigasi+chart\BISMILLAH\bin\Debug\System.Data.SQLite.dll
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3+navigasi+chart\BISMILLAH\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3+navigasi+chart\BISMILLAH\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3+navigasi+chart\BISMILLAH\bin\Debug\EntityFramework.xml
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3+navigasi+chart\BISMILLAH\bin\Debug\EntityFramework.SqlServer.xml
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3+navigasi+chart\BISMILLAH\bin\Debug\Newtonsoft.Json.xml
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3+navigasi+chart\BISMILLAH\bin\Debug\System.Data.SQLite.xml
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3+navigasi+chart\BISMILLAH\obj\x86\Debug\BISMILLAH.csprojResolveAssemblyReference.cache
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3+navigasi+chart\BISMILLAH\obj\x86\Debug\BISMILLAH.Form1.resources
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3+navigasi+chart\BISMILLAH\obj\x86\Debug\BISMILLAH.Properties.Resources.resources
+D:\Bismillah Final Project\Program\APP\BISMILLAH - bacasensor+savedata+gpsv3+navigasi+chart\BISMILLAH\obj\x86\Debug\BISMILLAH.csproj.GenerateResource.Cache

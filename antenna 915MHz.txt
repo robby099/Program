@@ -1,0 +1,241 @@
+**** Logarithmic Periodic Dipole Antenna ****
+https://www.changpuak.ch/electronics/lpda.php
+JavaScript Version 12.01.2014, based on ARRL ANTENNA BOOK, 17th ED.
+------------------------------------------------------------------------------
+Min. Frequency     :  900  MHz
+Max. Frequency     :  915  MHz
+Boomlength         :  565.2 mm
+Gain               :  11.63  dB
+Elements           :  11
+tau                :  0.978
+sigma              :  0.187
+------------------------------------------------------------------------------
+Bandwidth (active region) :  1.22
+Bandwidth (structural)    :  1.25
+Bandwidth (effective)     :  1.02
+------------------------------------------------------------------------------
+Element  1, Rod : 83.3 mm, Position : 0.0 mm, Diameter : 1.7 mm
+Element  2, Rod : 81.5 mm, Position : 62.2 mm, Diameter : 1.6 mm
+Element  3, Rod : 79.8 mm, Position : 123.1 mm, Diameter : 1.6 mm
+Element  4, Rod : 78.0 mm, Position : 182.7 mm, Diameter : 1.6 mm
+Element  5, Rod : 76.3 mm, Position : 241.0 mm, Diameter : 1.5 mm
+Element  6, Rod : 74.7 mm, Position : 298.0 mm, Diameter : 1.5 mm
+Element  7, Rod : 73.1 mm, Position : 353.8 mm, Diameter : 1.5 mm
+Element  8, Rod : 71.5 mm, Position : 408.4 mm, Diameter : 1.4 mm
+Element  9, Rod : 69.9 mm, Position : 461.8 mm, Diameter : 1.4 mm
+Element 10, Rod : 68.4 mm, Position : 514.0 mm, Diameter : 1.4 mm
+Element 11, Rod : 66.9 mm, Position : 565.1 mm, Diameter : 1.3 mm
+------------------------------------------------------------------------------
+
+
+
+
+
+
+// 30 cm
+**** Logarithmic Periodic Dipole Antenna ****
+https://www.changpuak.ch/electronics/lpda.php
+JavaScript Version 12.01.2014, based on ARRL ANTENNA BOOK, 17th ED.
+------------------------------------------------------------------------------
+Min. Frequency     :  900  MHz
+Max. Frequency     :  915  MHz
+Boomlength         :  237.8 mm
+Gain               :  8.44  dB
+Elements           :  6
+tau                :  0.911
+sigma              :  0.170
+------------------------------------------------------------------------------
+Bandwidth (active region) :  1.57
+Bandwidth (structural)    :  1.59
+Bandwidth (effective)     :  1.02
+------------------------------------------------------------------------------
+Element  1, Rod : 83.3 mm, Position : 0.0 mm, Diameter : 1.7 mm
+Element  2, Rod : 75.9 mm, Position : 56.8 mm, Diameter : 1.5 mm
+Element  3, Rod : 69.2 mm, Position : 108.6 mm, Diameter : 1.4 mm
+Element  4, Rod : 63.0 mm, Position : 155.7 mm, Diameter : 1.3 mm
+Element  5, Rod : 57.4 mm, Position : 198.7 mm, Diameter : 1.1 mm
+Element  6, Rod : 52.3 mm, Position : 237.8 mm, Diameter : 1.1 mm
+------------------------------------------------------------------------------
+
+
+
+
+
+//50 cm
+**** Logarithmic Periodic Dipole Antenna ****
+https://www.changpuak.ch/electronics/lpda.php
+JavaScript Version 12.01.2014, based on ARRL ANTENNA BOOK, 17th ED.
+------------------------------------------------------------------------------
+Min. Frequency     :  900  MHz
+Max. Frequency     :  915  MHz
+Boomlength         :  437.4 mm
+Gain               :  10.87  dB
+Elements           :  9
+tau                :  0.967
+sigma              :  0.184
+------------------------------------------------------------------------------
+Bandwidth (active region) :  1.29
+Bandwidth (structural)    :  1.31
+Bandwidth (effective)     :  1.02
+------------------------------------------------------------------------------
+Element  1, Rod : 83.3 mm, Position : 0.0 mm, Diameter : 1.7 mm
+Element  2, Rod : 80.6 mm, Position : 61.3 mm, Diameter : 1.6 mm
+Element  3, Rod : 77.9 mm, Position : 120.6 mm, Diameter : 1.6 mm
+Element  4, Rod : 75.3 mm, Position : 177.9 mm, Diameter : 1.5 mm
+Element  5, Rod : 72.8 mm, Position : 233.4 mm, Diameter : 1.5 mm
+Element  6, Rod : 70.4 mm, Position : 287.0 mm, Diameter : 1.4 mm
+Element  7, Rod : 68.1 mm, Position : 338.8 mm, Diameter : 1.4 mm
+Element  8, Rod : 65.8 mm, Position : 388.9 mm, Diameter : 1.3 mm
+Element  9, Rod : 63.7 mm, Position : 437.4 mm, Diameter : 1.3 mm
+------------------------------------------------------------------------------
+
+
+
+
+
+//30 cm
+**** Logarithmic Periodic Dipole Antenna ****
+https://www.changpuak.ch/electronics/lpda.php
+JavaScript Version 12.01.2014, based on ARRL ANTENNA BOOK, 17th ED.
+------------------------------------------------------------------------------
+Min. Frequency     :  900  MHz
+Max. Frequency     :  915  MHz
+Boomlength         :  237.8 mm
+Gain               :  8.44  dB
+Elements           :  6
+tau                :  0.911
+sigma              :  0.170
+------------------------------------------------------------------------------
+Bandwidth (active region) :  1.57
+Bandwidth (structural)    :  1.59
+Bandwidth (effective)     :  1.02
+------------------------------------------------------------------------------
+Element  1, Rod : 83.3 mm, Position : 0.0 mm, Diameter : 1.7 mm
+Element  2, Rod : 75.9 mm, Position : 56.8 mm, Diameter : 1.5 mm
+Element  3, Rod : 69.2 mm, Position : 108.6 mm, Diameter : 1.4 mm
+Element  4, Rod : 63.0 mm, Position : 155.7 mm, Diameter : 1.3 mm
+Element  5, Rod : 57.4 mm, Position : 198.7 mm, Diameter : 1.1 mm
+Element  6, Rod : 52.3 mm, Position : 237.8 mm, Diameter : 1.1 mm
+------------------------------------------------------------------------------
+
+
+
+
+/40 cm
+**** Logarithmic Periodic Dipole Antenna ****
+https://www.changpuak.ch/electronics/lpda.php
+JavaScript Version 12.01.2014, based on ARRL ANTENNA BOOK, 17th ED.
+------------------------------------------------------------------------------
+Min. Frequency     :  900  MHz
+Max. Frequency     :  915  MHz
+Boomlength         :  371.8 mm
+Gain               :  10.26  dB
+Elements           :  8
+tau                :  0.956
+sigma              :  0.181
+------------------------------------------------------------------------------
+Bandwidth (active region) :  1.34
+Bandwidth (structural)    :  1.37
+Bandwidth (effective)     :  1.02
+------------------------------------------------------------------------------
+Element  1, Rod : 83.3 mm, Position : 0.0 mm, Diameter : 1.7 mm
+Element  2, Rod : 79.7 mm, Position : 60.5 mm, Diameter : 1.6 mm
+Element  3, Rod : 76.2 mm, Position : 118.3 mm, Diameter : 1.5 mm
+Element  4, Rod : 72.9 mm, Position : 173.6 mm, Diameter : 1.5 mm
+Element  5, Rod : 69.7 mm, Position : 226.5 mm, Diameter : 1.4 mm
+Element  6, Rod : 66.7 mm, Position : 277.1 mm, Diameter : 1.3 mm
+Element  7, Rod : 63.8 mm, Position : 325.6 mm, Diameter : 1.3 mm
+Element  8, Rod : 61.0 mm, Position : 371.8 mm, Diameter : 1.2 mm
+------------------------------------------------------------------------------
+
+
+
+
+
+/915-928
+**** Logarithmic Periodic Dipole Antenna ****
+https://www.changpuak.ch/electronics/lpda.php
+JavaScript Version 12.01.2014, based on ARRL ANTENNA BOOK, 17th ED.
+------------------------------------------------------------------------------
+Min. Frequency     :  915  MHz
+Max. Frequency     :  928  MHz
+Boomlength         :  494.8 mm
+Gain               :  11.34  dB
+Elements           :  10
+tau                :  0.974
+sigma              :  0.186
+------------------------------------------------------------------------------
+Bandwidth (active region) :  1.25
+Bandwidth (structural)    :  1.27
+Bandwidth (effective)     :  1.01
+------------------------------------------------------------------------------
+Element  1, Rod : 82.0 mm, Position : 0.0 mm, Diameter : 1.6 mm
+Element  2, Rod : 79.9 mm, Position : 60.9 mm, Diameter : 1.6 mm
+Element  3, Rod : 77.8 mm, Position : 120.2 mm, Diameter : 1.6 mm
+Element  4, Rod : 75.8 mm, Position : 178.0 mm, Diameter : 1.5 mm
+Element  5, Rod : 73.8 mm, Position : 234.3 mm, Diameter : 1.5 mm
+Element  6, Rod : 71.9 mm, Position : 289.2 mm, Diameter : 1.4 mm
+Element  7, Rod : 70.1 mm, Position : 342.6 mm, Diameter : 1.4 mm
+Element  8, Rod : 68.3 mm, Position : 394.6 mm, Diameter : 1.4 mm
+Element  9, Rod : 66.5 mm, Position : 445.3 mm, Diameter : 1.3 mm
+Element 10, Rod : 64.8 mm, Position : 494.7 mm, Diameter : 1.3 mm
+
+
+
+
+//915-928 35 cm
+**** Logarithmic Periodic Dipole Antenna ****
+https://www.changpuak.ch/electronics/lpda.php
+JavaScript Version 12.01.2014, based on ARRL ANTENNA BOOK, 17th ED.
+------------------------------------------------------------------------------
+Min. Frequency     :  915  MHz
+Max. Frequency     :  928  MHz
+Boomlength         :  301.1 mm
+Gain               :  9.47  dB
+Elements           :  7
+tau                :  0.940
+sigma              :  0.178
+------------------------------------------------------------------------------
+Bandwidth (active region) :  1.43
+Bandwidth (structural)    :  1.45
+Bandwidth (effective)     :  1.01
+------------------------------------------------------------------------------
+Element  1, Rod : 82.0 mm, Position : 0.0 mm, Diameter : 1.6 mm
+Element  2, Rod : 77.1 mm, Position : 58.2 mm, Diameter : 1.5 mm
+Element  3, Rod : 72.5 mm, Position : 112.9 mm, Diameter : 1.4 mm
+Element  4, Rod : 68.2 mm, Position : 164.4 mm, Diameter : 1.4 mm
+Element  5, Rod : 64.1 mm, Position : 212.8 mm, Diameter : 1.3 mm
+Element  6, Rod : 60.3 mm, Position : 258.3 mm, Diameter : 1.2 mm
+Element  7, Rod : 56.7 mm, Position : 301.1 mm, Diameter : 1.1 mm
+------------------------------------------------------------------------------
+
+--------------------------------------------
+
+
+
+
+//915-928 30 cm
+**** Logarithmic Periodic Dipole Antenna ****
+https://www.changpuak.ch/electronics/lpda.php
+JavaScript Version 12.01.2014, based on ARRL ANTENNA BOOK, 17th ED.
+------------------------------------------------------------------------------
+Min. Frequency     :  915  MHz
+Max. Frequency     :  928  MHz
+Boomlength         :  234.7 mm
+Gain               :  8.46  dB
+Elements           :  6
+tau                :  0.912
+sigma              :  0.171
+------------------------------------------------------------------------------
+Bandwidth (active region) :  1.56
+Bandwidth (structural)    :  1.58
+Bandwidth (effective)     :  1.01
+------------------------------------------------------------------------------
+Element  1, Rod : 82.0 mm, Position : 0.0 mm, Diameter : 1.6 mm
+Element  2, Rod : 74.8 mm, Position : 55.9 mm, Diameter : 1.5 mm
+Element  3, Rod : 68.2 mm, Position : 107.0 mm, Diameter : 1.4 mm
+Element  4, Rod : 62.2 mm, Position : 153.5 mm, Diameter : 1.2 mm
+Element  5, Rod : 56.7 mm, Position : 196.0 mm, Diameter : 1.1 mm
+Element  6, Rod : 51.7 mm, Position : 234.7 mm, Diameter : 1.0 mm
+------------------------------------------------------------------------------
+s

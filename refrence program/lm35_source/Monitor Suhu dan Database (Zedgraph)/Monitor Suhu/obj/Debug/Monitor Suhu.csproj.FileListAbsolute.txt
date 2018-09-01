@@ -1,0 +1,10 @@
+C:\Users\scorpion\Documents\Visual Studio 2008\Projects\Monitor Suhu\Monitor Suhu\bin\Debug\Monitor Suhu.exe
+C:\Users\scorpion\Documents\Visual Studio 2008\Projects\Monitor Suhu\Monitor Suhu\bin\Debug\Monitor Suhu.pdb
+C:\Users\scorpion\Documents\Visual Studio 2008\Projects\Monitor Suhu\Monitor Suhu\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\scorpion\Documents\Visual Studio 2008\Projects\Monitor Suhu\Monitor Suhu\obj\Debug\Monitor_Suhu.Form_utama.resources
+C:\Users\scorpion\Documents\Visual Studio 2008\Projects\Monitor Suhu\Monitor Suhu\obj\Debug\Monitor_Suhu.Properties.Resources.resources
+C:\Users\scorpion\Documents\Visual Studio 2008\Projects\Monitor Suhu\Monitor Suhu\obj\Debug\Monitor Suhu.csproj.GenerateResource.Cache
+C:\Users\scorpion\Documents\Visual Studio 2008\Projects\Monitor Suhu\Monitor Suhu\obj\Debug\Monitor Suhu.exe
+C:\Users\scorpion\Documents\Visual Studio 2008\Projects\Monitor Suhu\Monitor Suhu\obj\Debug\Monitor Suhu.pdb
+C:\Users\scorpion\Documents\Visual Studio 2008\Projects\Monitor Suhu dan Database\Monitor Suhu\obj\Debug\Monitor Suhu.exe
+C:\Users\scorpion\Documents\Visual Studio 2008\Projects\Monitor Suhu dan Database\Monitor Suhu\obj\Debug\Monitor Suhu.pdb

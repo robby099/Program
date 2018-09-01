@@ -1,0 +1,31 @@
+C:\Users\scorpion\Documents\Visual Studio 2008\Projects\Monitor Suhu dan Database\Monitor Suhu\bin\Debug\Monitor Suhu.exe
+C:\Users\scorpion\Documents\Visual Studio 2008\Projects\Monitor Suhu dan Database\Monitor Suhu\bin\Debug\Monitor Suhu.pdb
+C:\Users\scorpion\Documents\Visual Studio 2008\Projects\Monitor Suhu dan Database\Monitor Suhu\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\scorpion\Documents\Visual Studio 2008\Projects\Monitor Suhu dan Database\Monitor Suhu\obj\Debug\Monitor_Suhu.Form_utama.resources
+C:\Users\scorpion\Documents\Visual Studio 2008\Projects\Monitor Suhu dan Database\Monitor Suhu\obj\Debug\Monitor_Suhu.Properties.Resources.resources
+C:\Users\scorpion\Documents\Visual Studio 2008\Projects\Monitor Suhu dan Database\Monitor Suhu\obj\Debug\Monitor dan Pencatat Suhu.csproj.GenerateResource.Cache
+C:\Users\scorpion\Documents\Visual Studio 2008\Projects\Monitor Suhu dan Database\Monitor Suhu\obj\Debug\Monitor Suhu.exe
+C:\Users\scorpion\Documents\Visual Studio 2008\Projects\Monitor Suhu dan Database\Monitor Suhu\obj\Debug\Monitor Suhu.pdb
+C:\Users\scorpion\Documents\Visual Studio 2008\Projects\Monitor Suhu dan Database (Zedgraph)\Monitor Suhu\obj\Debug\Monitor Suhu.exe
+C:\Users\scorpion\Documents\Visual Studio 2008\Projects\Monitor Suhu dan Database (Zedgraph)\Monitor Suhu\obj\Debug\Monitor Suhu.pdb
+C:\Users\scorpion\Documents\Visual Studio 2008\Projects\Monitor Suhu dan Database (Zedgraph)\Monitor Suhu\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\scorpion\Documents\Visual Studio 2008\Projects\Monitor Suhu dan Database (Zedgraph)\Monitor Suhu\obj\Debug\Monitor_Suhu.Form_utama.resources
+C:\Users\scorpion\Documents\Visual Studio 2008\Projects\Monitor Suhu dan Database (Zedgraph)\Monitor Suhu\obj\Debug\Monitor_Suhu.Properties.Resources.resources
+C:\Users\scorpion\Documents\Visual Studio 2008\Projects\Monitor Suhu dan Database (Zedgraph)\Monitor Suhu\obj\Debug\Monitor dan Pencatat Suhu.csproj.GenerateResource.Cache
+C:\Users\scorpion\Documents\Visual Studio 2008\Projects\Monitor Suhu dan Database (Zedgraph)\Monitor Suhu\bin\Debug\Monitor Suhu.exe
+C:\Users\scorpion\Documents\Visual Studio 2008\Projects\Monitor Suhu dan Database (Zedgraph)\Monitor Suhu\bin\Debug\Monitor Suhu.pdb
+C:\Users\scorpion\Documents\Visual Studio 2008\Projects\Monitor Suhu dan Database (Zedgraph)\Monitor Suhu\bin\Debug\ZedGraph.dll
+C:\Users\scorpion\Documents\Visual Studio 2008\Projects\Monitor Suhu dan Database (Zedgraph)\Monitor Suhu\bin\Debug\ZedGraph.xml
+C:\Users\scorpion\Documents\Visual Studio 2008\Projects\Monitor Suhu dan Database (Zedgraph)\Monitor Suhu\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\scorpion\Documents\Visual Studio 2008\Projects\Monitor Suhu dan Database (Zedgraph)\Monitor Suhu\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\scorpion\Documents\Visual Studio 2008\Projects\Monitor Suhu dan Database (Zedgraph)\Monitor Suhu\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\scorpion\Documents\Visual Studio 2008\Projects\Monitor Suhu dan Database (Zedgraph)\Monitor Suhu\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\scorpion\Documents\Visual Studio 2008\Projects\Monitor Suhu dan Database (Zedgraph)\Monitor Suhu\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\scorpion\Documents\Visual Studio 2008\Projects\Monitor Suhu dan Database (Zedgraph)\Monitor Suhu\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\scorpion\Documents\Visual Studio 2008\Projects\Monitor Suhu dan Database (Zedgraph)\Monitor Suhu\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\scorpion\Documents\Visual Studio 2008\Projects\Monitor Suhu dan Database (Zedgraph)\Monitor Suhu\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\scorpion\Documents\Visual Studio 2008\Projects\Monitor Suhu dan Database (Zedgraph)\Monitor Suhu\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\scorpion\Documents\Visual Studio 2008\Projects\Monitor Suhu dan Database (Zedgraph)\Monitor Suhu\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\scorpion\Documents\Visual Studio 2008\Projects\Monitor Suhu dan Database (Zedgraph)\Monitor Suhu\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\scorpion\Documents\Visual Studio 2008\Projects\Monitor Suhu dan Database (Zedgraph)\Monitor Suhu\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\scorpion\Documents\Visual Studio 2008\Projects\Monitor Suhu dan Database (Zedgraph)\Monitor Suhu\bin\Debug\zh-tw\ZedGraph.resources.dll
